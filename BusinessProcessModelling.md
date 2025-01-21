@@ -33,8 +33,8 @@ It typically involves the following:
 3. Design - It involves improving the business processes by identifying the opportunities for improvement in efficiency, and automation  
 4. Implementation - It involves the actions involved to improve the overall processes in practical.
 
-![Image](./Images/business%20process%20modeling.png)
 
+![business process modeling drawio](https://github.com/user-attachments/assets/6b5d4e50-a62c-47b8-934d-23a03731f976)
 
 Business process models involves following widely used techniques:
 -   Business Process Model and Notation (BPMN)
